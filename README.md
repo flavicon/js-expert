@@ -4,6 +4,6 @@
 
 <p align="center">Repository of the JS training given by tutor Erick Wendel.</p>
 
-<p align="center"><stromg>This repository list all modules of the training.</stromg></p>
+#### Modules
 
 01 - Javascript Testing
