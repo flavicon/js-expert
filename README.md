@@ -11,3 +11,4 @@
 
 01 - Javascript Testing
   - [Using mocks](https://github.com/flavicon/javascript-mocks)
+  - [Using stubs](https://github.com/flavicon/javascript-stubs)
