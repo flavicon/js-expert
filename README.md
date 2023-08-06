@@ -10,4 +10,4 @@
 #### Modules
 
 01 - Javascript Testing
-  - Using mocks
+  - [Using mocks](https://github.com/flavicon/javascript-mocks)
